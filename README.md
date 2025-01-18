@@ -59,6 +59,21 @@ All interactions and sensitive information are encrypted.
 ### Additional Features - 
 **Large File Handling:** Capable of handling large files thanks to Dropbox integration along
 
+### Environment Variables
+Create a .env file in the backend directory and add the following environment variables:
+
+```env
+PORT=your_port_number
+MONGO_URI=your_mongo_database_uri
+JWT_SECRET=your_jwt_secret_key
+NODE_ENV=stautus of development
+AES_SECRET=your_aes_encryption_key
+GOOGLE_USER=your_google_user_email
+GOOGLE_PASS=your_google_user_password
+OPENAI_API_KEY=your_openai_api_key
+DROPBOX_APP_KEY=your_dropbox_app_key
+DROPBOX_APP_SECRET=your_dropbox_app_secret
+```
 ## Getting Started
 
 ### Clone the repository
