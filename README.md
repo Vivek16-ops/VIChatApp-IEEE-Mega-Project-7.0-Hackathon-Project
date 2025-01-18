@@ -9,9 +9,7 @@ ChatApp is a next-generation chat application designed to combine the traditiona
 ### Traditional Chat Application Features
 
 - **Real-time Messaging:** Instant and reliable communication.
-- **Group Chats:** Create and manage group conversations with ease.
 - **Media Sharing:** Share images, videos, documents, and more.
-- **User Profiles:** Customize profiles with avatars and status messages.
 - **Account Management:** Secure account creation and management.
 - **Notification System:** Stay updated with message and activity notifications.
 
@@ -29,7 +27,6 @@ ChatApp is a next-generation chat application designed to combine the traditiona
 ### Security Features
 
 - **AES Encryption:** Messages, passwords, and sensitive user data are protected using AES encryption, ensuring privacy and security.
-- **Secure Authentication:** Multi-factor authentication for account protection.
 
 ## Benefits
 
@@ -46,7 +43,7 @@ Create an account using your email and password. Email verification ensures auth
 
 ### Chat
 
-Start individual or group chats with real-time updates.
+Start individual chats with real-time updates.
 
 ### AI Assistance
 
