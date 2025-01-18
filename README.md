@@ -65,3 +65,30 @@ All interactions and sensitive information are encrypted.
 
 ```sh
 git clone https://github.com/yourusername/chatapp.git
+```
+
+
+## Install dependencies
+### Navigate to the backend directory and install the dependencies:
+
+```sh
+cd backend
+npm install
+```
+
+## Start the backend server
+```sh
+npm run start
+```
+## Install frontend dependencies
+### Navigate to the frontend directory and install the dependencies:
+
+```sh
+cd ../frontend
+npm install
+```
+
+## Start the frontend application
+```sh
+npm run dev
+```
