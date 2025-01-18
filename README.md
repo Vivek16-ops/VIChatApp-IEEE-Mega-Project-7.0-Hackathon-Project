@@ -1,4 +1,4 @@
-# Real time ChatApp with Advanced AI Functionality
+# Real-time ChatApp with Advanced AI Functionality
 
 ## Overview
 
@@ -74,6 +74,43 @@ OPENAI_API_KEY=your_openai_api_key
 DROPBOX_APP_KEY=your_dropbox_app_key
 DROPBOX_APP_SECRET=your_dropbox_app_secret
 ```
+
+## Application Walkthrough
+
+### Login Section
+
+![1](https://github.com/user-attachments/assets/52ed7d5e-06d7-437d-aaa3-53016256ffac)
+
+### Home Section
+
+![9](https://github.com/user-attachments/assets/fef91a66-1b0b-48b2-b8ad-5727525b31de)
+
+![2](https://github.com/user-attachments/assets/4ea59495-7083-48cb-a536-34ac3678f5f3)
+
+![10](https://github.com/user-attachments/assets/578e7a27-01c1-4b90-ad61-fec68e634e49)
+
+## Some AI Functionality 
+
+### Image Generation
+
+![3](https://github.com/user-attachments/assets/172667a1-0ec0-4c27-abcb-78db6bdce6df)
+
+### Composer
+
+![4](https://github.com/user-attachments/assets/0d304044-806f-40ce-8070-bcf74dc4b910)
+
+### Other AI Functionality
+
+![5](https://github.com/user-attachments/assets/cedd9406-dc83-40a9-ac09-7a2f93f29382)
+
+### Advanced AI AI-powered chatbot
+
+![6'](https://github.com/user-attachments/assets/2851711e-0d60-4e4f-b10b-eebdb6c4cf99)
+
+![7](https://github.com/user-attachments/assets/f7e48658-737f-4644-9952-f42dd30c1b38)
+
+![8](https://github.com/user-attachments/assets/056ceaa2-49f4-4666-b996-8f90165a01da)
+
 ## Getting Started
 
 ### Clone the repository
