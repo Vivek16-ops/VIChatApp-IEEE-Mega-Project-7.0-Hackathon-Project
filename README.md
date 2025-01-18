@@ -1,4 +1,4 @@
-# ChatApp Backend
+# Real time ChatApp with Advanced AI Functionality
 
 ## Overview
 
@@ -55,6 +55,9 @@ Start individual chats with real-time updates.
 ### Secure Communication
 
 All interactions and sensitive information are encrypted.
+
+### Additional Features - 
+**Large File Handling:** Capable of handling large files thanks to Dropbox integration along
 
 ## Getting Started
 
