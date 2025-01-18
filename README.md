@@ -103,7 +103,7 @@ DROPBOX_APP_SECRET=your_dropbox_app_secret
 
 ![5](https://github.com/user-attachments/assets/cedd9406-dc83-40a9-ac09-7a2f93f29382)
 
-### Advanced AI AI-powered chatbot
+### Advanced AI-powered chatbot
 
 ![6'](https://github.com/user-attachments/assets/2851711e-0d60-4e4f-b10b-eebdb6c4cf99)
 
